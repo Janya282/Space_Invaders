@@ -1,9 +1,7 @@
 /*
 Janya Walia
-Mr. Parchimowicz
-ICS3U1 - Period 4
+ICS3U1
 Assignment 4 - Space Invaders
-June 8th, 2021
 */
 
 /***** Variables and declarations *****/
